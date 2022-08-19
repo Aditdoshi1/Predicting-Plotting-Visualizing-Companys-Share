@@ -25,7 +25,7 @@ It will install all the required python libraries
 * pip install -r requirements.txt
 
 ## Run
-- python main.py
+- python server.py
   - This will run the server which is deployed on localhost HTML using Flask.
  To Access the project, Open Web Browser and access localhost:5000
  
